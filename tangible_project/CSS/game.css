@@ -1,0 +1,101 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-image: url("../IMG/Background.png");
+}
+
+#nameBloc{
+    position: absolute;
+    width: 100%;
+    height: 20%;
+}
+
+#nameOfAnimal{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:170px;
+}
+
+#positionBloc{
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top : 200px;
+}
+
+#numberOfTouch{
+    position: absolute;
+    font-size: 40px;
+    top: 0%;
+    visibility: hidden;
+}
+
+#distance{
+    visibility: hidden;
+    position: absolute;
+    font-size: 40px;
+    top: 30%;
+}
+
+#distanceVal{
+    visibility: hidden;
+    position: absolute;
+    font-size: 40px;
+    top: 60%;
+}
+
+#suggestion{
+    position: absolute;
+    font-size: 65px;
+    top: 90%;
+}
+
+#suggestionPlace{
+    margin-left: 10vw;
+    margin-top: 7vh;
+    width: 80vw;
+    height: 40vh;
+    text-align: center;
+}
+
+#victorySound{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 100;
+    display:none; 
+}
+
+#victoryImage{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 100;
+    display:none;
+}
+
+#imageView{
+    display: none;
+}
+
+#imageOfAnimal{
+    width: auto;
+    height:895px;
+}
+
+#next{
+    width : 100%;
+    height: 60px;
+    z-index: 100;
+}
+
+#GoBackToGuessButton{
+    width : 100%;
+    height: 100%;
+    font-size: 55px;
+}

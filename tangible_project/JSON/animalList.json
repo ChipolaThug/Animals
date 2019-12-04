@@ -1,0 +1,57 @@
+AnimalList = '[\
+    {\
+        "image" : "IMG/vache.png",\
+        "audio" : "SOUND/vache.mp3",\
+        "trouver" : "Vache",\
+        "femelle" : "Vache",\
+        "male" : "Taureau",\
+        "petit" : "Veau",\
+        "cri" : "Beugle, Meugle, Mugit",\
+        "distanceSolo" : 7,\
+        "distanceDuo" : 3\
+    },\
+    {\
+        "image" : "IMG/poule.png",\
+        "audio" : "SOUND/poule.mp3",\
+        "trouver" : "Poule",\
+        "femelle" : "Poule",\
+        "male" : "Coq",\
+        "petit" : "Poussin",\
+        "cri" : "Glouse",\
+        "distanceSolo" : 7,\
+        "distanceDuo" : 4\
+    },\
+    {\
+        "image" : "IMG/cheval.png",\
+        "audio" : "SOUND/cheval.mp3",\
+        "trouver" : "Cheval",\
+        "femelle" : "Jument",\
+        "male" : "Cheval",\
+        "petit" : "Poulain",\
+        "cri" : "Hennit",\
+        "distanceSolo" : 7,\
+        "distanceDuo" : 5\
+    },\
+    {\
+        "image" : "IMG/cochon.png",\
+        "audio" : "SOUND/cochon.mp3",\
+        "trouver" : "Cochon",\
+        "femelle" : "Truie",\
+        "male" : "Porc / Cochon",\
+        "petit" : "Porcelet",\
+        "cri" : "Grogne",\
+        "distanceSolo" : 6,\
+        "distanceDuo" : 7\
+    },\
+    {\
+        "image" : "IMG/chevre.png",\
+        "audio" : "SOUND/chevre.mp3",\
+        "trouver" : "Chevre",\
+        "femelle" : "Chevre",\
+        "male" : "Bouc",\
+        "petit" : "Chevreau",\
+        "cri" : "Bele, Deguete",\
+        "distanceSolo" : 7,\
+        "distanceDuo" : 9\
+    }\
+]';
